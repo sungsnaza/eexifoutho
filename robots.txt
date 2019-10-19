@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aejaifahw.pandasforshan.com/sitemap.xml
